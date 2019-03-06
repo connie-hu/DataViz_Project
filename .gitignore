@@ -192,3 +192,7 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/macos,python,windows,jupyternotebook,jupyternotebooks
+#
+# Custom files
+config.py
+secret*.py
